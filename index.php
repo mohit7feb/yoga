@@ -47,7 +47,7 @@
             </div> 
             <div class="col-md-4 top-bar-right order-3 order-md-12">
               <i class="fas fa-phone-alt"></i> 
-              <a href="tel:+1-555-123-4567">+1-555-123-4567</a>
+<!--               <a href="tel:+1-555-123-4567">+1-555-123-4567</a> -->
             </div>       
           </div>      
         </div>
@@ -56,7 +56,7 @@
             <div class="col-12 content-col">
               <h1 class="site-title">Be peaceful in mind and healthy in Body!</h1>
               <p class="site-title-desc">Embrace a journey of self-discovery and well-being with our holistic yoga practices designed for body, mind, and soul.</p>
-              <a class="banner-btn" href="tel:+1-555-123-4567">Join us now</a>
+<!--               <a class="banner-btn" href="tel:+1-555-123-4567">Join us now</a> -->
             </div>
           </div>
         </div>
