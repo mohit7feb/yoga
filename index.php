@@ -573,8 +573,8 @@
         </div>
         <div class="row">
           <!-- <div class="col-12">
-            <a href="#" class="join-us-btn">Join Us Now</a>
-            <p class="join-us-call">or Call: <a href="tel:+1-555-123-4567" class="join-us-phone-nr">+1-555-123-4567</a></p>
+<!--             <a href="#" class="join-us-btn">Join Us Now</a> -->
+<!--             <p class="join-us-call">or Call: <a href="tel:+1-555-123-4567" class="join-us-phone-nr">+1-555-123-4567</a></p> -->
           </div> -->
         </div>
       </div>
