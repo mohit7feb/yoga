@@ -40,13 +40,13 @@
           <div class="row">
             <div class="col-md-4 top-bar-left order-2 order-md-12">
               <i class="fas fa-envelope-open-text"></i> 
-              <a href="mailto:info@webdomus.net">info@yogacenter.com</a>
+              <a href="mailto:info@webdomus.net">info@trezoga.online</a>
             </div>    
             <div class="col-md-4 logo order-1 order-md-12">
               <img class="logo-img" src="img/logo1.png" alt="">
             </div> 
             <div class="col-md-4 top-bar-right order-3 order-md-12">
-              <i class="fas fa-phone-alt"></i> 
+<!--               <i class="fas fa-phone-alt"></i>  -->
 <!--               <a href="tel:+1-555-123-4567">+1-555-123-4567</a> -->
             </div>       
           </div>      
