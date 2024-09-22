@@ -18,6 +18,16 @@
     <!--Font-->
     <link rel="stylesheet" type="text/css" href="font/web-font.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16702945092">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16702945092');
+</script>
 
     <title>Yoga</title>
   </head>
